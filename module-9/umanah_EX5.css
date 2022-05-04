@@ -64,11 +64,11 @@ h1 {
 
 footer {
     background-color: #4F3674;
-    /* position: absolute; */
+ 
     bottom: 0;
     width: 100%;
 
-    /* Assignment 9.2 styles */
+    
     position: fixed;
     left: 0;
 }
@@ -91,9 +91,7 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/**
-    Assignment 9.2 - Styles
- */
+
 .form {
     display: inline-grid;
     grid-template-columns: auto;
